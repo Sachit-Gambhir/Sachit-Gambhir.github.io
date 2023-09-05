@@ -375,16 +375,16 @@ body.light-theme{
 }
 
 .about .row .box:nth-child(2) .progress:nth-child(2) .bar span{
-    width: 80%;
+    width: 75%;
 }
 .about .row .box:nth-child(2) .progress:nth-child(3) .bar span{
     width: 70%;
 }
 .about .row .box:nth-child(2) .progress:nth-child(4) .bar span{
-    width: 60%;
+    width: 55%;
 }
 .about .row .box:nth-child(2) .progress:nth-child(5) .bar span{
-    width: 55%;
+    width: 60%;
 }
 
 .about .box .exp-box{
