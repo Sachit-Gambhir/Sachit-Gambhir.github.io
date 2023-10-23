@@ -215,7 +215,7 @@ body.light-theme{
     animation:
       c 0.5s infinite steps(1),
       t 2s linear infinite alternate,
-      m 16s steps(2) infinite;
+      m 8s steps(4) infinite;
   }
   .type span span:before {
     content:" ";
